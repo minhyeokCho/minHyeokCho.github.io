@@ -2,8 +2,8 @@ title:              minhyeokCho Blog
 email:              whalsgur0000@naver.com
 description:        A Blog Theme by Start Bootstrap
 author:             Start Bootstrap
-baseurl:            "https://minhyeokcho.github.io/"
-url:                "https://minhyeokcho.github.io/"
+baseurl:            "http://minhyeokcho.github.io/"
+url:                "http://minhyeokcho.github.io/"
 
 # Social Profiles
 # twitter_username:   SBootstrap
